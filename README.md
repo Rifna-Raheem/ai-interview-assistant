@@ -6,7 +6,7 @@ This project is an intelligent interview preparation assistant built with Meta�
 ## 📸 Screenshots
 
    ### 🔍 Job Title Input and Question Generation
-![Job Input and Questions](assets/Screenshot(5).png)
+![Job Input and Questions](https://github.com/Rifna-Raheem/ai-interview-assistant/blob/main/assets/Screenshot(5).png?raw=true)
 
    ### 🧠 Answer Evaluation and Feedback
 ![Answer Evaluation](assets/Screenshot(6).png)
