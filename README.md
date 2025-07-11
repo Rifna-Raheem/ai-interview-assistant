@@ -7,10 +7,10 @@ This project is an intelligent interview preparation assistant built with Meta�
 
 Here are some screenshots to give a quick look at how the application works:
 
-### 🔍 Job Title Input and Question Generation
+   ### 🔍 Job Title Input and Question Generation
 ![Job Input and Questions](assets/job_input_and_questions.png)
 
-### 🧠 Answer Evaluation and Feedback
+   ### 🧠 Answer Evaluation and Feedback
 ![Answer Evaluation](assets/answer_evaluation.png)
 ---
 
