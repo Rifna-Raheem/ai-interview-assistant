@@ -34,9 +34,9 @@ This project is an intelligent interview preparation assistant built with Meta�
 ## 📁 Project Structure
 ```
 ai-interview-assistant/
-├── interviewassistant.ipynb # Main Colab Notebook
-├── README.md # Project Description
-└── assets/ # Screenshots and images
+├── interviewassistant.ipynb       # Main Colab Notebook
+├── README.md                      # Project Description
+└── assets/                        # Screenshots and images
 ```
 
 ---
