@@ -3,6 +3,16 @@
 This project is an intelligent interview preparation assistant built with Meta’s LLaMA 3 model, running on Google Colab and integrated with Hugging Face. It simulates real interview scenarios by generating role-specific questions, evaluating answers using LLMs, and providing tailored feedback and suitability scores.
 
 ---
+## 📸 Screenshots
+
+Here are some screenshots to give a quick look at how the application works:
+
+### 🔍 Job Title Input and Question Generation
+![Job Input and Questions](assets/job_input_and_questions.png)
+
+### 🧠 Answer Evaluation and Feedback
+![Answer Evaluation](assets/answer_evaluation.png)
+---
 
 ## 📌 Features
 
@@ -41,14 +51,7 @@ ai-interview-assistant/
 
 ---
 
-## 📸 Screenshots
 
-Include only if useful — here’s how to reference them:
-
-![Preview](assets/Screenshot(1).png)
-![Evaluation](assets/Screenshot(2).png)
-
----
 
 ## 💡 Future Scope
 
