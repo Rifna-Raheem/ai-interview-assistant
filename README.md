@@ -44,8 +44,8 @@ ai-interview-assistant/
 
 Include only if useful — here’s how to reference them:
 
-![Preview](assets/screenshot1.png)
-![Evaluation](assets/screenshot2.png)
+![Preview](assets/Screenshot(1).png)
+![Evaluation](assets/Screenshot(2).png)
 
 ---
 
