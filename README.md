@@ -32,6 +32,10 @@ This project is an intelligent interview preparation assistant built with Meta�
 ---
 
 ## 📁 Project Structure
+ai-interview-assistant/
+├── interviewassistant.ipynb # Main Colab Notebook
+├── README.md # Project Description
+└── assets/ # Screenshots and images
 
 
 ---
@@ -65,9 +69,9 @@ Include only if useful — here’s how to reference them:
 
 ## 👨‍💻 Author
 
-- **Your Name**
-- 📫 [Connect on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-- 🌐 [GitHub Profile](https://github.com/YOUR-USERNAME)
+- **Abdul Raheem Rifna**
+- 📫 [Connect on LinkedIn](https://www.linkedin.com/in/rifna-abdul-raheem-890aa5303)
+- 🌐 [GitHub Profile](https://github.com/Rifna-Raheem)
 
 ---
 
