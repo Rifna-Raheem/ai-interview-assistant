@@ -28,7 +28,7 @@ This project is an intelligent interview preparation assistant built with Metaâ€
 
 1. Click this button to open the project in Google Colab:
 
-   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rifna-Raheem/ai-interview-assistant/blob/main/interviewassistant.ipynb)
+   [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rifna-Raheem/ai-interview-assistant/blob/main/interview-assistant.ipynb)
 
 2. In Colab:
    - Change the job title (e.g., Software Engineer, Data Scientist)
